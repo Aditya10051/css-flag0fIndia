@@ -1,0 +1,215 @@
+.upper{
+    background-color: orange;
+    width: 900px;
+    height: 200px;
+    position: relative;
+}
+.mid{
+    height: 200px;
+    width: 900px;
+    background-color: white;
+    position: relative;
+    top: 1px;
+
+}
+.low{
+    background-color: green;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top: 6px;
+}
+.mid > div{
+    height: 185px;
+    width: 185px;
+    border: 10px solid black;
+    border-radius: 50%;
+    position: relative;
+    left: 350px;
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: center;
+    font-size: 5rem;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#point{
+    height: 2px;
+    width: 2px;
+    border: 8px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 82px;
+    left: 80px;
+}
+#wheel1{
+    height: 190px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    position: absolute;
+    left: 87px;
+}
+#wheel2{
+    width: 190px;
+    height: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    position: absolute;
+    top: 88px;
+}
+#wheel3{
+    height: 190px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(54deg);
+    position: absolute;
+    left: 91px;
+    bottom: 0;   
+}
+#wheel4{
+    width: 90px;
+    height: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(54deg);
+    position: absolute;
+    top: 52px;
+    left: 15px;
+}
+#wheel17{
+    width: 90px;
+    height: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(54deg);
+    position: absolute;
+    top: 126px;
+    left: 70px;
+}
+#wheel5{
+    height: 92px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(72deg);
+    position: absolute;
+    left: 135px;
+    top: 26px;
+}
+#wheel6{
+    height: 91px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(72deg);
+    position: absolute;
+    left: 41px;
+    top: 57px;
+}
+#wheel7{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(72deg);
+    position: absolute;
+    left: 57px;
+    top: 135px;
+}
+#wheel8{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(72deg);
+    position: absolute;
+    left: 27px;
+    top: 44px;
+}
+#wheel9{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(36deg);
+    position: absolute;
+    left: 2px;
+    top: 60px;
+}
+#wheel10{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(36deg);
+    position: absolute;
+    left: 84px;
+    top: 118px;
+}
+#wheel11{
+    height: 90px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(36deg);
+    position: absolute;
+    left: 116px;
+    top: 2px;
+}
+#wheel12{
+    height: 90px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(36deg);
+    position: absolute;
+    left: 58px;
+    top: 83px;
+}
+#wheel13{
+    height: 90px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(18deg);
+    position: absolute;
+    left: 72px;
+    top: 88px;
+}
+#wheel14{
+    height: 90px;
+    width: 0px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(18deg);
+    position: absolute;
+    left: 101px;
+    top: 0px;
+}
+#wheel15{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(18deg);
+    position: absolute;
+    left: 90px;
+    top: 104px;
+}
+#wheel16{
+    height: 0px;
+    width: 90px;
+    border: 3px solid black;
+    border-radius: 50%;
+    transform: rotate(18deg);
+    position: absolute;
+    left: 0px;
+    top: 75px;
+}
+
+
